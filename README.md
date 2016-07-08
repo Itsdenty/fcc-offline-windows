@@ -7,7 +7,7 @@
 
 (2.) After downloading/cloning this repository, navigate to folder freecodecamp and  extract the 3 7z files for client, data and seed folders to this directory.
 
-(3. ) In folder freecodecamp, open a command line interface by typing "cmd" in the address bar and pressing enter. Run command "npm install" to install the node_modules (node modules will be added very soon, this step won't be needed).
+(3. ) In folder freecodecamp, open a command line interface by typing "cmd" in the address bar and pressing enter.
 
 (4.) Check if mongodb is added to your PATH variable open
  a command line interface and type "mongod --version". 
