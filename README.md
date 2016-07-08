@@ -6,8 +6,8 @@
 (1.) Download and install nodejs 4.x.x, mongodb 3.x.x, and  7-zip.
 
 (2.) After downloading/cloning this repository, navigate to folder
-     freecodecamp and  extract the 3 7z files for client, data and seed
-     folders to this directory.
+     freecodecamp and  extract the four 7z files for
+     client, data,seed and node_modules folders to this directory.
 
 (3. ) In folder freecodecamp, open a command line interface by typing
       "cmd" in the address bar and pressing enter.
@@ -15,9 +15,9 @@
 (4.) Check if mongodb is added to your PATH variable open
     a command line interface and type "mongod --version". 
     The result should be  v3.x.x. If it is not recognized
-   as an internal or external. Add
-  C:\Program Files\MongoDB\Server\3.0\bin to your PATH variable
-  (depends on where mongodb was installed on your system).
+    as an internal or external. Add
+   C:\Program Files\MongoDB\Server\3.0\bin to your PATH variable
+   (depends on where mongodb was installed on your system).
 
 
 
