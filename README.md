@@ -1,4 +1,4 @@
-# Offline Frecodecamp for Windows
+# Offline Version Freecodecamp for Windows
 **************************
        INSTALLATION
 **************************
